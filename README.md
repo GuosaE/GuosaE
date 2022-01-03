@@ -5,7 +5,7 @@
 
 :computer: I am interested in backend and frontend software development, machine learning and artificial intelligence, quantum computing, and AR/VR technologies.
 
-:handshake: I’m interested in collaborating with other developers and in contributing to open source projects.
+:handshake: I’m interested in collaborating with other developers and contributing to open source projects.
 
 ## Languages and Tools:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
