@@ -1,7 +1,7 @@
 
 # :wave: Hi, I'm Guosa Edebiri
 
-:zap: I'm a software developer with a background in mathematics and a deep interest in science and innovation. 
+:zap: I'm a software developer with a background in mathematics and a deep interest in science and technology. 
 
 :computer: I am interested in backend and frontend software development, machine learning and artificial intelligence, quantum computing, and AR/VR technologies.
 
