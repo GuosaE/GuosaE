@@ -42,7 +42,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuosaE&show_icons=true&theme=vue&hide=stars&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuosaE&theme=vue&layout=compact)
 
+
+
 <!---
 GuosaE/GuosaE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GuosaE.visitor-badge)
+[![Repos Badge](https://badges.pufler.dev/repos/GuosaE)](https://badges.pufler.dev)
 --->
