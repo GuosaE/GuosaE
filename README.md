@@ -3,7 +3,7 @@
 
 :zap: I'm a software developer with a background in mathematics and a deep interest in science and technology. 
 
-:computer: I am interested in backend and frontend software development, machine learning and artificial intelligence, quantum computing, and AR/VR technologies.
+:computer: I am interested in backend and frontend software development, machine learning and artificial intelligence, and AR/VR technologies.
 
 :handshake: I’m interested in collaborating with other developers and in contributing to open source projects.
 
@@ -29,7 +29,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+
 ## How to reach me:
 
 :email: You can contact me at gedebiri@gmail.com
