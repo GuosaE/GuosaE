@@ -1,5 +1,5 @@
 
-# :wave: Hi, I'm Guosa Edebiri
+## :wave: Hi, I'm Guosa
 
 :zap: I'm a software developer with a background in mathematics and a deep interest in science and technology. 
 
@@ -24,7 +24,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## I'm Currently Learning:
+## I'm currently learning:
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
