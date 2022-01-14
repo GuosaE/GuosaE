@@ -1,5 +1,5 @@
 
-## :wave: Hi, I'm Guosa
+# :wave: Hi, I'm Guosa
 
 :zap: I'm a software developer with a background in mathematics and a deep interest in science and technology. 
 
