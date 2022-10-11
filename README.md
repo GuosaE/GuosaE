@@ -38,9 +38,9 @@
 :high_brightness: Connect with me on  <a href="https://www.linkedin.com/in/guosa-edebiri/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
-## Stats:
+<!---## Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuosaE&show_icons=true&theme=vue&hide=stars&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuosaE&theme=vue&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuosaE&show_icons=true&theme=vue&hide=stars&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuosaE&theme=vue&layout=compact)--->
 
 
 
