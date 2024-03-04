@@ -3,7 +3,7 @@
 
 :zap: I'm a software developer with a deep interest in science and technology. 
 
-:computer: I am interested in backend and frontend software development, machine learning and artificial intelligence, quantum computing, and AR/VR technologies.
+:computer: I am interested in backend, frontend, and mobile software development, machine learning and artificial intelligence, quantum computing, and AR/VR technologies.
 
 :handshake: I’m interested in collaborating with other developers and contributing to open source projects.
 
